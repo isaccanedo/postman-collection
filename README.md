@@ -2,12 +2,9 @@
 
 Postman Collection SDK é um módulo NodeJS que permite que um desenvolvedor trabalhe com Postman Collections. Usando este módulo, um desenvolvedor pode criar coleções, manipulá-las e exportá-las em um formato que os aplicativos Postman e os tempos de execução da CLI do Postman (como [Newman](https://github.com/postmanlabs/newman)) podem consumir.
 
-A collection lets you group individual requests together. These requests can be further organized into folders to
-accurately mirror your API. Requests can also store sample responses when saved in a collection. You can add metadata
-like name and description too so that all the information that a developer needs to use your API is available easily.
+Uma coleção permite agrupar solicitações individuais. Essas solicitações podem ser organizadas em pastas para espelhar com precisão sua API. As solicitações também podem armazenar respostas de amostra quando salvas em uma coleção. Você também pode adicionar metadados como nome e descrição para que todas as informações que um desenvolvedor precisa para usar sua API estejam disponíveis facilmente.
 
-To know more about Postman Collections, visit the
-[collection documentation section on Postman Website](https://www.getpostman.com/collection).
+Para saber mais sobre as Coleções do Postman, visite a [seção de documentação da coleção no site do Postman](https://www.getpostman.com/collection).
 
 > The new [Collection Format v2](http://blog.getpostman.com/2015/06/05/travelogue-of-postman-collection-format-v2/)
 > builds a stronger foundation for improving your productivity while working with APIs. We want your feedback and iron

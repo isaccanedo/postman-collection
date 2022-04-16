@@ -12,8 +12,7 @@ Para saber mais sobre as Coleções do Postman, visite a [seção de documentaç
 
 ## Installing the SDK
 
-Postman Collection SDK can be installed using NPM or directly from the git repository within your NodeJS projects. If
-installing from NPM, the following command installs the SDK and saves in your `package.json`
+O SDK do Postman Collection pode ser instalado usando o NPM ou diretamente do repositório git em seus projetos NodeJS. Se estiver instalando a partir do NPM, o comando a seguir instala o SDK e salva em seu `package.json`
 
 ```terminal
 > npm install postman-collection --save
